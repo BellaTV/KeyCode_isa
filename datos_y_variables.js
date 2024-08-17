@@ -6,8 +6,8 @@ console.log("nombre:", nombre);
 let edad = 28;
 console.log("edad:", edad);
 
-let precio = 78000;
-console.log("precio: $", precio);
+let precio = "$78.500";
+console.log("precio:", precio);
 
 
 let seriesFavoritas = ["Sherlock", "Sweet Home", "Bones" ];
@@ -22,7 +22,7 @@ let peliculasFavoritas = {
     protagonistas: [["Howl", "Sophie", "Calcifer"], ["Jo", "Amy", "Laurie", "Beth", "Meg"],["Harry Potter","Hermione Granger","Ron Weasley"]]
 };
 
-console.log("\nPeliculas favoritas:");
+console.log("Peliculas favoritas:");
 
 console.log("\n Nombre:", peliculasFavoritas.nombre[0])
 console.log("\ Año de estreno: ", peliculasFavoritas.estreno[0])
@@ -35,3 +35,9 @@ console.log("\ Protagonistas:",peliculasFavoritas.protagonistas[1][0], ",", peli
 console.log("\n Nombre:", peliculasFavoritas.nombre[2])
 console.log("\ Año de estreno: ", peliculasFavoritas.estreno[2])
 console.log("\ Protagonistas:",peliculasFavoritas.protagonistas[2][0], ",", peliculasFavoritas.protagonistas[2][1],",", peliculasFavoritas.protagonistas[2][2]);
+
+edad = ++edad;
+console.log("\nedad + 1:",edad);
+
+seriesFavoritas.push("Fullmetal Alchemist");
+console.log("\nLista con otra serie favorita mas: ", seriesFavoritas);
