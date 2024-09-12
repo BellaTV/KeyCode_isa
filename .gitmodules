@@ -1,3 +1,6 @@
 [submodule "KeyCode_isa_actv3"]
 	path = KeyCode_isa_actv3
 	url = https://github.com/BellaTV/KeyCode_isa_actv3
+[submodule "MD-note-app-vanillaJS"]
+	path = MD-note-app-vanillaJS
+	url = https://github.com/EliRoCas/MD-note-app-vanillaJS
