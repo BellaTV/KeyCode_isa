@@ -11,3 +11,6 @@
 [submodule "Actividad_5"]
 	path = Actividad_5
 	url = https://github.com/BellaTV/Actividad_5
+[submodule "MD-product-list-react"]
+	path = MD-product-list-react
+	url = https://github.com/EliRoCas/MD-product-list-react
