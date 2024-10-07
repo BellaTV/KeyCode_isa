@@ -13,3 +13,6 @@
 [submodule "Actividad_4"]
 	path = Actividad_4
 	url = https://github.com/BellaTV/Actividad_4.git
+[submodule "Actividad_6"]
+	path = Actividad_6
+	url = https://github.com/BellaTV/Actividad_6.git
