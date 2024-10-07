@@ -8,3 +8,6 @@
 	path = Actividad_4
 	url = https://github.com/BellaTV/Actividad_4.git
 
+[submodule "Actividad_5"]
+	path = Actividad_5
+	url = https://github.com/BellaTV/Actividad_5
