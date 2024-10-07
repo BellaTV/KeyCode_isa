@@ -4,10 +4,6 @@
 [submodule "MD-note-app-vanillaJS"]
 	path = MD-note-app-vanillaJS
 	url = https://github.com/EliRoCas/MD-note-app-vanillaJS
-[submodule "Actividad_4"]
-	path = Actividad_4
-	url = https://github.com/BellaTV/Actividad_4.git
-
 [submodule "Actividad_5"]
 	path = Actividad_5
 	url = https://github.com/BellaTV/Actividad_5
