@@ -16,3 +16,6 @@
 [submodule "Actividad_6"]
 	path = Actividad_6
 	url = https://github.com/BellaTV/Actividad_6.git
+[submodule "MD-Redux-Login-Simulation"]
+	path = MD-Redux-Login-Simulation
+	url = https://github.com/EliRoCas/MD-Redux-Login-Simulation.git
