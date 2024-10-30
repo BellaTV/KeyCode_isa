@@ -19,3 +19,9 @@
 [submodule "MD-Redux-Login-Simulation"]
 	path = MD-Redux-Login-Simulation
 	url = https://github.com/EliRoCas/MD-Redux-Login-Simulation.git
+[submodule "MD-Cocktail-Coders-Trivia-Game"]
+	path = MD-Cocktail-Coders-Trivia-Game
+	url = https://github.com/EliRoCas/MD-Cocktail-Coders-Trivia-Game.git
+[submodule "MD_Reto_1"]
+	path = MD_Reto_1
+	url = https://github.com/BellaTV/Reto_1.git
